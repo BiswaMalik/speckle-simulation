@@ -36,8 +36,8 @@ I(x, y) = |Σ Aᵢ e^{iφᵢ}|²
 
 ## 🖼️ Sample Output
 
-(<img width="1990" height="1275" alt="speckle" src="/speckle.png" />
-)
+<img width="1990" height="1275" alt="speckle" src="/speckle.png" />
+
 
 ---
 
