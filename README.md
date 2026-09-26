@@ -1,4 +1,4 @@
-# Speckle Pattern Simulation for Biomedical Imaging
+# Laser Speckle Analysis of Vinegar Eel Behaviour
 
 ## 📌 Overview
 
