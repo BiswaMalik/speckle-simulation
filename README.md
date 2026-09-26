@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project focuses on simulating laser speckle patterns using principles of wave optics and Fourier transforms. Speckle patterns arise due to interference of coherent light scattered from rough surfaces or complex media such as biological tissues.
+This project focuses on simulating laser speckle patterns using principles of wave optics and Fourier transforms. Speckle patterns arise due to interference of coherent light scattered from rough surfaces or complex media such as biological tissues(Vinegar Eel).
 
 The goal is to understand the statistical and physical behavior of speckle patterns and explore their relevance in biomedical imaging and non-invasive diagnostics.
 
@@ -36,7 +36,8 @@ I(x, y) = |Σ Aᵢ e^{iφᵢ}|²
 
 ## 🖼️ Sample Output
 
-(Add your generated speckle image here)
+(<img width="1990" height="1275" alt="speckle" src="https://github.com/user-attachments/assets/e0ab3c78-5476-4504-8e99-f61cbc708282" />
+)
 
 ---
 
